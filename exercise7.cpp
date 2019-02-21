@@ -12,6 +12,7 @@ using namespace std;
 // test comment
 double square(int x)
 {
+  cout << "hello" << endl;
   double g = (x*1.0)/2;
   double xog = (x*1.0)/g;
   while (!(g==((g+xog)/2)))
