@@ -9,6 +9,7 @@ of the square root function.
 using namespace std;
 
 // successive approximation
+// test comment
 double square(int x)
 {
   double g = (x*1.0)/2;
